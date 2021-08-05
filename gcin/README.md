@@ -1,4 +1,5 @@
 # 行列輸入法 array30 for gcin
+gcin 是專為 Windows 及 Android 平台開發的第三方輸入法軟體框架。本頁面的提供輸入法鍵碼表（.cin 檔案），係特別為 gcin 製作及調整。如欲尋求 gcin 相關支援，請參見其官網 https://hyperrate.com/dir.php?eid=67 。
 
 資料格式說明：
 * .cin：鍵碼表原始檔。
