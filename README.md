@@ -1,7 +1,7 @@
 # array30 行列輸入法（30 鍵版）表格
 (Tables of Array Input Method)
 
-這裡儲存了給 OkidoKey/F、OpenVanilla 和 gcin 使用的行列輸入法表格，均已內建於上述各輸入法軟體中，使用者無需重覆安裝；係提供移植至其他輸入法軟體的程式設計師，或給對於研究 .cin 輸入法表格有興趣的朋友們參考。
+這裡儲存了給 OkidoKey/Frankie、OpenVanilla 和 gcin 使用的行列輸入法表格，均已內建於上述各輸入法軟體中，使用者無需重覆安裝；係提供移植至其他輸入法軟體的程式設計師，或給對於研究 .cin 輸入法表格有興趣的朋友們參考。
 
 關於 2021/07/23 增補 Unicode 13.0 非屬於 CJK Ext-A/B/C/D/E/F/G 字集的漢字一節，係參考維基百科對於「[中日韓統一表意文字](https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%97%A5%E9%9F%93%E7%B5%B1%E4%B8%80%E8%A1%A8%E6%84%8F%E6%96%87%E5%AD%97)」的說明，將 Unicode 1.0-13.0 各版本未收錄於 CJK Ext-A/B/C/D/E/F/G 字集的漢字予以補足。
 
