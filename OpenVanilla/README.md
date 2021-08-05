@@ -1,4 +1,6 @@
 # 行列輸入法 array30 for OpenVanilla
+OpevVanilla 是專為 macOS 平台開發的第三方輸入法軟體框架。本頁面的提供輸入法鍵碼表（.cin 檔案），係特別為 OpenVanilla 製作及調整。如欲尋求 OpenVanilla 相關支援，請參見其官網 https://openvanilla.org/ 。
+
 檔案說明：
 * array-shortcode.cin：行列一、二級簡碼。
 * array-special.cin：行列特別碼。
