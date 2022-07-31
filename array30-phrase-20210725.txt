@@ -21403,7 +21403,6 @@ invk	送來
 invx	道林紙
 inw;	道姑
 inx	逆風
-inx	逆風
 inx;	送給
 inx;	錦心繡口
 inxb	慈幼
@@ -25694,7 +25693,6 @@ kmin	傾斜度
 kmiu	傾銷
 kmix	價錢
 kmj	價目
-kmj	價目
 kmj;	價目單
 kmjn	貨運
 kmjr	價目表
@@ -28162,7 +28160,6 @@ lizs	自命不凡
 lj,,	血肉糢糊
 lj,f	自料
 lj,q	自斃
-lj.	自身
 lj.	自身
 lj..	自愛
 lj.a	看得到
@@ -44224,7 +44221,6 @@ rkgx	其所以
 rkha	黃疸
 rkhu	勤儉為服務之本
 rki	黃金
-rki	黃金
 rkin	黃道
 rkip	黃道日
 rkiq	黃銅
@@ -50001,7 +49997,6 @@ vpfs	杳茫
 vpfx	東南風
 vpfy	東南部
 vpg	東石
-vph	東方
 vph	東方
 vphl	根數方程式
 vphq	來日方長
