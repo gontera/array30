@@ -1,7 +1,7 @@
 # array30 行列輸入法（30 鍵版）表格
 (Tables of Array Input Method)
 
-這裡儲存了給 OkidoKey/Frankie、OpenVanilla 和 gcin 使用的最新版行列輸入法鍵碼表，均已內建於上述各輸入法軟體中，原則上您無需重覆安裝（除非您想搶鮮享受新版鍵碼表的功能）；係提供移植至其他輸入法軟體的程式設計師，或給對於研究 .cin 輸入法表格有興趣的朋友們參考。
+這裡儲存了給 [OkidoKey/Frankie](https://creativecrap.com/app/okidokey.html)、[OpenVanilla](https://openvanilla.org/) 和 [gcin](https://hyperrate.com/dir.php?eid=67) 使用的最新版行列輸入法鍵碼表，均已內建於上述各輸入法軟體中，原則上您無需重覆安裝（除非您想搶鮮享受新版鍵碼表的功能）；係提供移植至其他輸入法軟體的程式設計師，或給對於研究 .cin 輸入法表格有興趣的朋友們參考。
 
 對於想嘗鮮使用新版行列輸入法鍵碼表的使用者，我已在本站的 [Wiki 專區](https://github.com/gontera/array30/wiki)撰寫自行匯入鍵碼表的教學文件，請自行參閱。
 
