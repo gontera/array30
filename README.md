@@ -3,7 +3,7 @@
 
 這裡儲存了給 [OkidoKey/Frankie](https://creativecrap.com/app/okidokey.html)、[OpenVanilla](https://openvanilla.org/) 和 [gcin](https://hyperrate.com/dir.php?eid=67) 使用的最新版行列輸入法鍵碼表，均已內建於上述各輸入法軟體中，原則上您無需重覆安裝（除非您想搶鮮享受新版鍵碼表的功能）；係提供移植至其他輸入法軟體的程式設計師，或給對於研究 .cin 輸入法表格有興趣的朋友們參考。
 
-對於想嘗鮮使用新版行列輸入法鍵碼表的使用者，我已在本站的 [Wiki 專區](https://github.com/gontera/array30/wiki)撰寫自行匯入鍵碼表的教學文件，請自行參閱。
+如果您是 LIME，或是對於想嘗鮮使用新版行列輸入法鍵碼表的使用者，我已在本站的 [Wiki 專區](https://github.com/gontera/array30/wiki)撰寫自行匯入鍵碼表的教學文件，請自行參閱。
 
 有關增補 Unicode 13.0 非屬於 CJK Ext-A/B/C/D/E/F/G 字集的漢字一節，係參考維基百科對於[中日韓統一表意文字](https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%97%A5%E9%9F%93%E7%B5%B1%E4%B8%80%E8%A1%A8%E6%84%8F%E6%96%87%E5%AD%97)的說明，將 Unicode 1.0-13.0 各版本未收錄於 CJK Ext-A/B/C/D/E/F/G 字集的漢字予以補足。
 
