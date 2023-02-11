@@ -6,6 +6,7 @@ gcin 是專為 Windows、Linux 及 Android 平台開發的第三方輸入法軟�
 * .gtab：可供 gcin 讀取使用之輸入法表格模組，係以上述 .cin 鍵碼表原始檔經由 gcin2tab 工具轉製而成。
 
 版本更新歷程：
+* 2023-02-11 版本 v2023-1.0，依據行列30 v2023 新校訂編碼製作。
 * 2021-08-04 版本 0.73，修正 https://github.com/gontera/array30/issues/3 暨刪除部分有重複收編的漢字，感謝 Terry Tsang 回報 (big)。
 * 2021-07-23 版本 0.70，新增 CJK Ext-G (big)，並補足原本 Unicode 13.0 中未定義於 CJK Ext-A/B/C/D/E/F/G 中的漢字 (both)。
 * 2018-04-24 版本 0.61，新增支援 CJK Ext-F。
