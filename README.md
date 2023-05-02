@@ -42,3 +42,9 @@
 2. W+6 單位符號：新增貨幣符號（U+20AC，歐元€；U+FFE6，韓元￦），並大幅擴充物理單位符號。
 3. W+7 圖表符號：新增U+2591，░ 及U+2592，▒。
 4. W+8 順序符號：現在已有更多組標號字符可供選擇，並擴充若干組標號字符至20號。
+
+## 補充參考資料
+配合 v2023-1.0 新版鍵碼表發布，玆特別就本次行列輸入法對於 Unicode 14.0 九萬餘漢字重新校訂的情形，補充說明於下列文件，併請大家參考：
+* [行列字根表v2023](https://github.com/gontera/array30/blob/master/%E8%A1%8C%E5%88%97%E5%AD%97%E6%A0%B9%E8%A1%A8v2023.jpg)。
+* [擴展字集取碼及增加的字根說明](https://github.com/gontera/array30/blob/master/%E8%A1%8C%E5%88%97%E6%93%B4%E5%B1%95%E5%AD%97%E9%9B%86%E5%8F%96%E7%A2%BC%E5%8F%8A%E5%A2%9E%E5%8A%A0%E7%9A%84%E5%AD%97%E6%A0%B9%E8%AA%AA%E6%98%8E.pdf)。
+* [異體字編碼說明及列表](https://github.com/gontera/array30/blob/master/%E8%A1%8C%E5%88%97%E8%BC%B8%E5%85%A5%E6%B3%95%E7%95%B0%E9%AB%94%E5%AD%97%E7%B7%A8%E7%A2%BC%E8%AA%AA%E6%98%8E%E5%8F%8A%E5%88%97%E8%A1%A8.pdf)。
