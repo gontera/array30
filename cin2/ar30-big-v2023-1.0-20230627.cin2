@@ -5,15 +5,14 @@
 # cin2 格式說明 https://vchewing.github.io/CIN_EVOLUTION.html
 # 有關本鍵碼表使用說明，請參閱 https://github.com/gontera/array30/wiki
 
+%ename array30
+%cname 行列30
+%sname AR30
 %intlname Array_30:en;行列30:zh-Hans;行列30:zh-Hant
 %selkey 1234567890
 %endkey 1234567890
 %wildcardkey *
 %nullcandidate □
-%space_style 2
-%phase_auto_skip_endkey
-%flag_disp_full_match
-%flag_disp_partial_match
 %keyname begin
 a	1-
 b	5v
