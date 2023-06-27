@@ -1,7 +1,5 @@
 # 行列輸入法 array30 for cin2
-cin2 是 cin 格式的拓展版本。本頁面的提供輸入法鍵碼表（.cin 檔案），係特別為 gcin 製作及調整。如欲尋求 gcin 相關支援，請參見其官網（討論版），網址為 https://hyperrate.com/dir.php?eid=67 。
-
-與 CIN2 格式有關的說明請洽《[CIN 標準（v2.2）](https://vchewing.github.io/CIN_EVOLUTION.html)》一文。
+cin2 是 cin 格式的拓展版本。本頁面的提供輸入法鍵碼表（.cin 檔案），係特別為有支援 CIN2 標準的輸入法製作及調整。與 CIN2 格式有關的說明請洽《[CIN 標準（v2.2）](https://vchewing.github.io/CIN_EVOLUTION.html)》一文。
 
 目前，該資料夾內的 cin2 檔案有如下現狀：
 
