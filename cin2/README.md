@@ -1,5 +1,5 @@
 # 行列輸入法 array30 for cin2
-cin2 是 cin 格式的拓展版本。本頁面的提供輸入法鍵碼表，係特別為 [vChewing（威注音）](https://vchewing.github.io/)等有支援 CIN2 格式的輸入法軟體製作及調整。有關 CIN2 格式的說明，可參考《[CIN 標準 （v2.2）](https://vchewing.github.io/CIN_EVOLUTION.html)》一文。
+cin2 是 cin 格式的拓展版本。本頁面的提供輸入法鍵碼表，係特別為 [vChewing（威注音）](https://vchewing.github.io/)等有支援 CIN2 格式的輸入法軟體製作及調整。有關 CIN2 格式的說明，可參考《[CIN 標準（v2.4）](https://vchewing.github.io/CIN_EVOLUTION.html)》一文。
 
 vChewing（威注音）是專屬於 macOS 平台的輸入法軟體專案，最初乃基於[小麥注音](https://mcbopomofo.openvanilla.org/)的 C++ 程式碼開發，經孫志貴先生以 Swift 語言全面改寫後，自 vChewing 3.5.1 版起，經由內附的「CIN 磁帶模式」已可幾近完美實作行列輸入法的功能。請自本頁面擇一下載「標準版」或「大字集版」的 cin2 鍵碼表，於 vChewing 載入行列鍵碼表後即可使用。
 
