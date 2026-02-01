@@ -17,6 +17,9 @@
 
 本站提供專搭多種輸入法軟體使用的行列輸入法鍵碼表，包括個人電腦（Windows、macOS 及 Linux）及行動裝置（Android、iOS/iPadOS），有關說明詳參[本站 wiki](https://github.com/gontera/array30/wiki)。
 
+## 行列輸入法 2026 鍵碼表擴增計畫 (New!)
+行列輸入法鍵碼表自從 2023 年 2 月釋出符合 Unicode 14.0 規格，且完整支援中日韓統一表意文字（CJK Unified Ideograph，以下簡稱 CJK）Ext-G 範圍的版本 v2023-1.0 之後，已歷時 3 年。截至目前為止，Unicode 17.0 業已釋出，蒐錄 CJK 字集範圍已擴增至 Ext-J，這是本人決定為行列輸入法再次擴增字碼的初衷。**擴增計畫草案 .ods 檔，我已置於本頁面的 /test 資料夾中**，請於下載後以 Microsoft Excel 或是 LibreOffice Calc 等試算表軟體開啟後即可檢視。如您發現有需修正之處，歡迎留言討論，至為感謝！
+
 ## 版本 v2023-1.0 釋出說明
 行列輸入法30 鍵版（下稱「行列30」）對照表自從 2016 年釋出支援 Unicode 中日韓統一表意文字 (CJK Unified Ideographs) 延伸E區 (Ext-E) 的版本以來，為不影響大多數使用者的習慣，近7年來都沒有更動。然而 ISO 已於 2022 年 9 月發布Unicode 15.0，其中包括延伸 H 區 (Ext-H) 的統一表意文字亦已發布，故釋出支援新版字集的行列30 對照表有其必要。
 
