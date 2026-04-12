@@ -2,13 +2,13 @@
 (Tables of Array Input Method)
 
 ## 前言
-這裡儲存了給 [OkidoKey/Frankie](https://creativecrap.com/app/okidokey.html)、[OpenVanilla](https://openvanilla.org/) 和 [gcin](https://hyperrate.com/dir.php?eid=67) 使用的最新版行列輸入法鍵碼表，均已內建於上述各輸入法軟體中，原則上您無需重覆安裝（除非您想搶鮮享受新版鍵碼表的功能）；係提供移植至其他輸入法軟體的程式設計師，或給對於研究 .cin 輸入法表格有興趣的朋友們參考。
+這裡儲存了給 [OkidoKey/Frankie](https://creativecrap.com/app/okidokey.html)、[OpenVanilla](https://openvanilla.org/)、[唯音 (vChewing)](https://vchewing.github.io/) 和 [gcin](https://hyperrate.com/dir.php?eid=67) 使用的最新版行列輸入法鍵碼表，均已內建於上述各輸入法軟體中，原則上您無需重複安裝（除非您想搶鮮享受新版鍵碼表的功能）；係提供移植至其他輸入法軟體的程式設計師，或給對於研究 .cin 輸入法表格有興趣的朋友們參考。
 
-如果您是 LIME，或是對於想嘗鮮使用新版行列輸入法鍵碼表的使用者，我已在本站的 [Wiki 專區](https://github.com/gontera/array30/wiki)撰寫自行匯入鍵碼表的教學文件，請自行參閱。
+如果您正在使用 LIME，或是對於想嘗鮮使用新版行列輸入法鍵碼表的使用者，我已在本站的 [Wiki 專區](https://github.com/gontera/array30/wiki)撰寫自行匯入鍵碼表的教學文件，請自行參閱。
 
-目前行列輸入法最新的 v2026-1.02 版相容於 Unicode 17.0，支援 Unicode 中日韓統一表意文字 (CJK Unified Ideographs) 至延伸 J 區 (CJK Ext-J)，依據鍵碼表依據收錄字集範圍，區分為標準版 (regular) 及大字集版 (big) 共 2 個版本：
-* 標準版 (regular)：**僅收錄** Unicode 內碼為 **4 位數** 16 進位之中日韓漢字；例如「行」字，其 Unicode 內碼為 U+884C。CJK Ext-A 字集範圍亦收錄於此版本。如果您打算**在 Android 或 iOS/iPadOS 行動裝置使用**行列輸入法，推薦選擇此版本。
-* 大字集版 (big)：**完整收錄** Unicode 內碼為 **4 位數**及 **5 位數** 16 進位之中日韓漢字；例如「𨑨」字，其 Unicode 內碼為 U+28468。大字集版除了蒐錄標準版的內容外，亦包含完整之 CJK Ext-B/C/D/E/F/G/H/I/J 字集範圍。如果您打算**在 Windows、macOS、Linux 等電腦作業系統使用**行列輸入法，推薦選擇此版本。
+目前行列輸入法最新的 v2026-1.02 版相容於 Unicode 17.0，支援 Unicode 中日韓統一表意文字 (CJK Unified Ideographs) 至延伸 J 區 (CJK Ext-J)，鍵碼表依據依據收錄字集範圍，區分為標準版 (regular) 及大字集版 (big) 共 2 個版本：
+* 標準版 (regular)：**僅收錄** Unicode 內碼為 **4 位數** 16 進位之中日韓漢字；例如「行」字，其 Unicode 內碼為 U+884C；CJK Ext-A 字集範圍亦收錄於此。如果您打算**在 Android 或 iOS/iPadOS 行動裝置使用**行列輸入法，推薦選擇此版本。
+* 大字集版 (big)：**完整收錄** Unicode 內碼為 **4 位數**及 **5 位數** 16 進位之中日韓漢字；例如「𨑨」字，其 Unicode 內碼為 U+28468。大字集版除了蒐錄標準版的內容外，亦包含完整之 CJK Ext-B/C/D/E/F/G/H/I/J 字集範圍。如果您打算**在 Windows、macOS、Linux 等桌面作業系統使用**行列輸入法，推薦選擇此版本。
 
 2021/07/25 新增行列輸入法官方收錄 6 萬詞的[詞庫檔](https://github.com/gontera/array30/blob/master/array30-phrase-20210725.txt)（原先收錄於需付費的「行列詞彙輸入法」軟體，經行列輸入法作者廖明德先生同意公開於此處，並無償授權提供各家第三方輸入法軟體作者，於開發行列輸入法軟體時採用）。行列詞彙共分為二字詞、三字詞及多字詞，其拆碼原則請參考行列輸入法官方 Facebook 粉絲團頁面「[行列教室](https://www.facebook.com/notes/335303977574152/)」之說明。
 
@@ -30,6 +30,7 @@
 5. 除了原有的 W 選單外，新增第二選單 HG (6- 5-)，包括：
    * hg1：常用符號。
    * hg2：按鍵符號，包括 PC/Mac 鍵盤符號、媒體播放符號，以及電源符號。
+   * hg3\~hg7：目前未使用，保留供未來擴充。
    * hg8：CJK 表意描述字元。當你想輸入的漢字於 Unicode 未定義時，可用此字元加上漢字偏旁進行描述；如「廠」字在表意描述的表示法為「⿸广敞」。
    * hg9：CJK 筆劃*。
    * hg0：CJK 部首*，包括康熙部首及增補部首。
