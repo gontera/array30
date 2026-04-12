@@ -8,7 +8,7 @@
 
 目前行列輸入法最新的 v2026-1.02 版相容於 Unicode 17.0，支援 Unicode 中日韓統一表意文字 (CJK Unified Ideographs) 至延伸 J 區 (CJK Ext-J)，鍵碼表依據依據收錄字集範圍，區分為標準版 (regular) 及大字集版 (big) 共 2 個版本：
 * 標準版 (regular)：**僅收錄** Unicode 內碼為 **4 位數** 16 進位之中日韓漢字；例如「行」字，其 Unicode 內碼為 U+884C；CJK Ext-A 字集範圍亦收錄於此。如果您打算**在 Android 或 iOS/iPadOS 行動裝置使用**行列輸入法，推薦選擇此版本。
-* 大字集版 (big)：**完整收錄** Unicode 內碼為 **4 位數**及 **5 位數** 16 進位之中日韓漢字；例如「𨑨」字，其 Unicode 內碼為 U+28468。大字集版除了蒐錄標準版的內容外，亦包含完整之 CJK Ext-B/C/D/E/F/G/H/I/J 字集範圍。如果您打算**在 Windows、macOS、Linux 等桌面作業系統使用**行列輸入法，推薦選擇此版本。
+* 大字集版 (big)：**完整收錄** Unicode 內碼為 **4 位數**及 **5 位數** 16 進位之中日韓漢字；例如「𨑨」字，其 Unicode 內碼為 U+28468。大字集版除了蒐錄標準版的內容外，亦包含完整之 CJK Ext-B/C/D/E/F/G/H/I/J 字集範圍。如果您打算**在 Windows、macOS、Linux 等桌面作業系統使用**行列輸入法，推薦選擇此版本。目前微軟 Windows 11 24H2 內含的細明體 7.10 版已支援至 CJK Ext-I，因為尚未包含到 Ext-J，故您可能需要變更輸入法軟體的顯示字型（如：[Jigmo 系列字型](https://kamichikoichi.github.io/jigmo/)），使候選字清單得以顯示正確的字。
 
 2021/07/25 新增行列輸入法官方收錄 6 萬詞的[詞庫檔](https://github.com/gontera/array30/blob/master/array30-phrase-20210725.txt)（原先收錄於需付費的「行列詞彙輸入法」軟體，經行列輸入法作者廖明德先生同意公開於此處，並無償授權提供各家第三方輸入法軟體作者，於開發行列輸入法軟體時採用）。行列詞彙共分為二字詞、三字詞及多字詞，其拆碼原則請參考行列輸入法官方 Facebook 粉絲團頁面「[行列教室](https://www.facebook.com/notes/335303977574152/)」之說明。
 
