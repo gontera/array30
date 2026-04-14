@@ -2,7 +2,7 @@
 (Tables of Array Input Method)
 
 ## 前言
-這裡儲存了給 [OkidoKey/Frankie](https://creativecrap.com/app/okidokey.html)、[OpenVanilla](https://openvanilla.org/)、[唯音 (vChewing)](https://vchewing.github.io/) 和 [gcin](https://hyperrate.com/dir.php?eid=67) 使用的最新版行列輸入法鍵碼表，均已內建於上述各輸入法軟體中，原則上您無需重複安裝（除非您想搶鮮享受新版鍵碼表的功能）；係提供移植至其他輸入法軟體的程式設計師，或給對於研究 .cin 輸入法表格有興趣的朋友們參考。
+這裡儲存了給 [OkidoKey/Frankie](https://creativecrap.com/app/okidokey.html)、[OpenVanilla](https://openvanilla.org/)、[唯音 (vChewing)](https://vchewing.github.io/) 和 [gcin](https://hyperrate.com/dir.php?eid=67) 使用的最新版行列輸入法鍵碼表，係提供移植至其他輸入法軟體的程式設計師，或給對於研究 .cin 輸入法表格有興趣的朋友們參考。其中 OkidoKey/Frankie 及 OpenVanilla 均已內建本站提供的新版本行列輸入法，原則上您**無需**重複安裝（除非您想搶鮮享受新版鍵碼表的功能）；此外，gcin 內含行列輸入法版本過舊，唯音 (vChewing) 未內含行列輸入法，皆**建議匯入**本站提供的新版行列輸入法表格。
 
 如果您正在使用 LIME，或是對於想嘗鮮使用新版行列輸入法鍵碼表的使用者，我已在本站的 [Wiki 專區](https://github.com/gontera/array30/wiki)撰寫自行匯入鍵碼表的教學文件，請自行參閱。
 
