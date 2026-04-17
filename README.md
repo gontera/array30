@@ -2,17 +2,18 @@
 (Tables of Array Input Method)
 
 ## 前言
-這裡儲存了給 [OkidoKey/Frankie](https://creativecrap.com/app/okidokey.html)、[OpenVanilla](https://openvanilla.org/)、[唯音 (vChewing)](https://vchewing.github.io/) 和 [gcin](https://hyperrate.com/dir.php?eid=67) 使用的最新版行列輸入法鍵碼表，係提供移植至其他輸入法軟體的程式設計師，或給對於研究 .cin 輸入法表格有興趣的朋友們參考。其中 OkidoKey/Frankie 及 OpenVanilla 均已內建本站提供的新版本行列輸入法，原則上您**無需**重複安裝（除非您想搶鮮享受新版鍵碼表的功能）；此外，gcin 內含行列輸入法版本過舊，唯音 (vChewing) 未內含行列輸入法，皆**建議匯入**本站提供的新版行列輸入法表格。
+這裡儲存了給 [OkidoKey/Frankie](https://creativecrap.com/app/okidokey.html)、[OpenVanilla](https://openvanilla.org/)、[唯音 (vChewing)](https://vchewing.github.io/) 和 [gcin](https://hyperrate.com/dir.php?eid=67) 使用的最新版行列輸入法鍵碼表，係提供移植至其他輸入法軟體的程式設計師，或給對於研究 .cin 輸入法表格有興趣的朋友們參考。其中 OkidoKey/Frankie 及 OpenVanilla 均已內建本站提供的新版本行列輸入法，原則上您**無需**重複安裝（除非您想搶鮮享受新版鍵碼表的功能）；此外，gcin 內含行列輸入法版本過舊，以及唯音 (vChewing) 未內含行列輸入法，皆建議搭配本站提供的新版行列輸入法表格匯入使用。
 
-如果您正在使用 LIME，或是對於想嘗鮮使用新版行列輸入法鍵碼表的使用者，我已在本站的 [Wiki 專區](https://github.com/gontera/array30/wiki)撰寫自行匯入鍵碼表的教學文件，請自行參閱。
+LIME（萊姆）輸入法 6.x app，已內建由本站提供的行列30/行列10 v2023-1.0 鍵碼表。對於 LIME 用戶們，亦歡迎參考本站 [Wiki 專區](https://github.com/gontera/array30/wiki)的教學頁，自行更新行列輸入法為 v2026-1.0/1.02。
 
+## 行列輸入法標準版、大字集版
 目前行列輸入法最新的 v2026-1.02 版相容於 Unicode 17.0，支援 Unicode 中日韓統一表意文字 (CJK Unified Ideographs) 至延伸 J 區 (CJK Ext-J)，鍵碼表依據依據收錄字集範圍，區分為標準版 (regular) 及大字集版 (big) 共 2 個版本：
-* 標準版 (regular)：**僅收錄** Unicode 內碼為 **4 位數** 16 進位之中日韓漢字；例如「行」字，其 Unicode 內碼為 U+884C；CJK Ext-A 字集範圍亦收錄於此。如果您打算**在 Android 或 iOS/iPadOS 行動裝置使用**行列輸入法，推薦選擇此版本。
-* 大字集版 (big)：**完整收錄** Unicode 內碼為 **4 位數**及 **5 位數** 16 進位之中日韓漢字；例如「𨑨」字，其 Unicode 內碼為 U+28468。大字集版除了蒐錄標準版的內容外，亦包含完整之 CJK Ext-B/C/D/E/F/G/H/I/J 字集範圍。如果您打算**在 Windows、macOS、Linux 等桌面作業系統使用**行列輸入法，推薦選擇此版本。目前微軟 Windows 11 24H2 內含的細明體 7.10 版已支援至 CJK Ext-I，因為尚未包含到 Ext-J，故您可能需要變更輸入法軟體的顯示字型（如：[Jigmo 系列字型](https://kamichikoichi.github.io/jigmo/)），使候選字清單得以顯示正確的字。
+* 標準版 (regular)：收錄字集範圍為中日韓統一表意文字 (CJK Unified Ideograph) 以及延伸 A 區 (CJK Ext-A)，即 Unicode 內碼為 **4 位數** 16 進位之中日韓漢字；例如「行」字，其 Unicode 內碼為 U+884C；CJK Ext-A 字集範圍亦收錄於此。如果您打算在**Android 或 iOS/iPadOS 行動裝置**使用行列輸入法，推薦選擇此版本。
+* 大字集版 (big)：大字集版除了蒐錄標準版的內容外，亦**完整收錄** Unicode 內碼為 **5 位數** 16 進位之 CJK Ext-B/C/D/E/F/G/H/I/J 字集範圍；例如「𨑨」字，其 Unicode 內碼為 U+28468。如果您打算在**Windows、macOS、Linux 等桌面作業系統**使用行列輸入法，推薦選擇此版本。目前微軟 Windows 11 24H2 內含的細明體 7.10 版已支援至 CJK Ext-I，因為尚未包含到 Ext-J，故您可能需要變更輸入法軟體的顯示字型（如：[Jigmo 系列字型](https://kamichikoichi.github.io/jigmo/)），使候選字清單得以顯示正確的字。
 
-2021/07/25 新增行列輸入法官方收錄 6 萬詞的[詞庫檔](https://github.com/gontera/array30/blob/master/array30-phrase-20210725.txt)（原先收錄於需付費的「行列詞彙輸入法」軟體，經行列輸入法作者廖明德先生同意公開於此處，並無償授權提供各家第三方輸入法軟體作者，於開發行列輸入法軟體時採用）。行列詞彙共分為二字詞、三字詞及多字詞，其拆碼原則請參考行列輸入法官方 Facebook 粉絲團頁面「[行列教室](https://www.facebook.com/notes/335303977574152/)」之說明。
+本站另收錄行列輸入法總數達 6 萬詞的[詞庫檔](https://github.com/gontera/array30/blob/master/array30-phrase-20210725.txt)，原收錄於需付費的「行列詞彙輸入法」軟體，經行列輸入法發明人廖明德先生同意公開於此處，並無償授權提供各家第三方輸入法軟體作者，提供開發行列輸入法軟體時採用。行列詞彙共分為二字詞、三字詞及多字詞，其拆碼原則請參考行列輸入法官方 Facebook 粉絲團頁面「[行列教室](https://www.facebook.com/notes/335303977574152/)」之說明。
 
-## 行列輸入法軟體與鍵碼表
+## 輸入法軟體與鍵碼表
 我已盡可能蒐錄各種支援行列的輸入法軟體，並將下載連結彙整於[行列輸入法軟體下載連結總整理](https://github.com/gontera/array30/wiki/%E8%A1%8C%E5%88%97%E8%BC%B8%E5%85%A5%E6%B3%95%E8%BB%9F%E9%AB%94%E4%B8%8B%E8%BC%89%E9%80%A3%E7%B5%90%E7%B8%BD%E6%95%B4%E7%90%86)一文。其中一部分輸入法軟體已內建行列輸入法（亦即，安裝完成即可使用行列），但有另一部分輸入法軟體因為沒有內建行列，須另行載入本站提供的鍵碼表才可使用。
 
 本站提供專搭多種輸入法軟體使用的行列輸入法鍵碼表，包括個人電腦（Windows、macOS 及 Linux）及行動裝置（Android、iOS/iPadOS），有關說明詳參[本站 wiki](https://github.com/gontera/array30/wiki)。
