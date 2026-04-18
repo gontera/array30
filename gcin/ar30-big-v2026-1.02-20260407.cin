@@ -3,8 +3,8 @@
 # 官方下載網址 https://github.com/gontera/array30
 # 有關本鍵碼表使用說明，請參閱 https://github.com/gontera/array30/wiki
 
-%ename array30
-%cname 行列30
+%ename array30-big
+%cname 大行列
 %selkey 1234567890
 %endkey 1234567890
 %space_style 2
