@@ -4,8 +4,7 @@
 ## 前言
 這裡儲存了給 [OkidoKey/Frankie](https://creativecrap.com/app/okidokey.html)、[OpenVanilla](https://openvanilla.org/)、[唯音 (vChewing)](https://vchewing.github.io/) 和 [gcin](https://hyperrate.com/dir.php?eid=67) 使用的最新版行列輸入法鍵碼表，係提供移植至其他輸入法軟體的程式設計師，或給對於研究 .cin 輸入法表格有興趣的朋友們參考。其中 OkidoKey/Frankie 及 OpenVanilla 均已內建本站提供的新版本行列輸入法，原則上您**無需**重複安裝（除非您想搶鮮享受新版鍵碼表的功能）；此外，gcin 內含行列輸入法版本過舊，以及唯音 (vChewing) 未內含行列輸入法，皆建議搭配本站提供的新版行列輸入法表格匯入使用。
 
-LIME（萊姆）輸入法 6.x app，已內建由本站提供的行列30/行列10 v2023-1.0 鍵碼表。對於 LIME 用戶們，亦歡迎參考本站 [Wiki 專區](https://github.com/gontera/array30/wiki)的教學頁，自行更新行列輸入法為 v2026-1.0/1.02。
-
+LIME（萊姆）輸入法 6.x app，已內建本站提供的最新版行列30（鍵碼表版本 array30-regular-v2026-1.0）及行列10（鍵碼表版本 array10a-v2023-1.0）。
 ## 行列輸入法標準版、大字集版
 目前行列輸入法最新的 v2026-1.02 版相容於 Unicode 17.0，支援 Unicode 中日韓統一表意文字 (CJK Unified Ideographs) 至延伸 J 區 (CJK Ext-J)，鍵碼表依據依據收錄字集範圍，區分為標準版 (regular) 及大字集版 (big) 共 2 個版本：
 * 標準版 (regular)：收錄字集範圍為中日韓統一表意文字 (CJK Unified Ideograph) 以及延伸 A 區 (CJK Ext-A)，即 Unicode 內碼為 **4 位數** 16 進位之中日韓漢字；例如「行」字，其 Unicode 內碼為 U+884C；CJK Ext-A 字集範圍亦收錄於此。如果您打算在**Android 或 iOS/iPadOS 行動裝置**使用行列輸入法，推薦選擇此版本。
