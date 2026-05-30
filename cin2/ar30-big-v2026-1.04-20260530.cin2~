@@ -1,5 +1,5 @@
 %gen_inp
-# 行列輸入法 30 鍵版鍵碼表 array30 for vChewing (v2026-1.04), 2026-05-30
+# 行列輸入法 30 鍵版鍵碼表 array30 for vChewing (v2026-1.03), 2026-04-16
 # 官方下載網址 https://github.com/gontera/array30/cin2
 # vChewing（威注音）計畫網址 https://github.com/vChewing/vChewing-macOS/
 # cin2 格式說明 https://vchewing.github.io/CIN_EVOLUTION.html
@@ -13,8 +13,6 @@
 %endkey 1234567890
 %wildcardkey *
 %nullcandidate □
-%keys_to_directly_commit	`~!@#$%^&*()-_=+[{]}\|:'"<>?
-%quickphrases_commission_key '
 %keyname begin
 a	1-
 b	5v
