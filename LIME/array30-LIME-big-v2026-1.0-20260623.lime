@@ -1,4 +1,4 @@
-# 行列輸入法 30 鍵版鍵碼表（大字集版） array30 big for LIME (v2026-1.0), 2026-06-22
+# 行列輸入法 30 鍵版鍵碼表（大字集版） array30 big for LIME (v2026-1.0), 2026-06-23
 # 官方下載網址 https://github.com/gontera/array30
 # 有關本鍵碼表使用說明，請參閱 https://github.com/gontera/array30/wiki
 
@@ -9,7 +9,7 @@
 @endkey@|1234567890
 @spacestyle@|2
 @imkeys@|abcdefghijklmnopqrstuvwxyz./;,
-@imkeynames@|1-\|5v\|3v\|3-\|3^\|4-\|5-\|6-\|8^\|7-\|8-\|9-\|7v\|6v\|9^\|0^\|1^\|4^\|2-\|5^\|7^\|4v\|2^\|2v\|6^\|1v\|9v\|0v\|0-\|8v
+@imkeynames@|1-\|5⇣\|3⇣\|3-\|3⇡\|4-\|5-\|6-\|8⇡\|7-\|8-\|9-\|7⇣\|6⇣\|9⇡\|0⇡\|1⇡\|4⇡\|2-\|5⇡\|7⇡\|4⇣\|2⇡\|2⇣\|6⇡\|1⇣\|9⇣\|0⇣\|0-\|8⇣
 
 %chardef begin
 # Begin of CJK Unified Ideographs
