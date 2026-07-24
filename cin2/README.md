@@ -10,6 +10,7 @@ vChewing（唯音）是由孫志貴先生以 Swift 語言開發，專屬於 macO
 關於 vChewing 載入行列輸入法鍵碼表的方法，請參考本人的 [wiki 網頁](https://github.com/gontera/array30/wiki/vChewing%EF%BC%88%E5%94%AF%E9%9F%B3%EF%BC%8C%E8%88%8A%E7%A8%B1%E3%80%8C%E5%A8%81%E6%B3%A8%E9%9F%B3%E3%80%8D%EF%BC%89%E6%95%99%E5%AD%B8%EF%BC%9A%E8%BC%89%E5%85%A5%E8%A1%8C%E5%88%97%E8%BC%B8%E5%85%A5%E6%B3%95%E9%8D%B5%E7%A2%BC%E8%A1%A8)。
 
 ## 版本更新歷程：
+* 2026-07-24 版本 v2026-1.05，修正 [#19](https://github.com/gontera/array30/issues/19) 的錯誤。
 * 2026-05-30 版本 v2026-1.04，配合行列30 詞庫檔 (20260528)，對於 %quickphrases 段進行調整。
 * 2026-04-16 版本 v2026-1.03，補正漏植的行列詞彙 (big)。
 * 2026-04-07 版本 v2026-1.02，修正原 v2026-1.0/1.01 於 Ext-I 碼表漏植結尾 i (8^) 的錯誤 (big)。
