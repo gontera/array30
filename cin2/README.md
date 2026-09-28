@@ -1,15 +1,20 @@
 # 行列輸入法 array30 for cin2
+
 cin2 是 cin 格式的擴充版本。本頁面的提供輸入法鍵碼表，係特別為 [vChewing（唯音）](https://vchewing.github.io/)（註：版號 4.1.2 以前稱為「威注音」）等有支援 CIN2 格式的輸入法軟體製作及調整。有關 CIN2 格式的說明，可參考《[CIN 標準（v2.7）](https://vchewing.github.io/CIN_EVOLUTION.html)》一文。
 
 vChewing（唯音）是由孫志貴先生以 Swift 語言開發，專屬於 macOS 平台的輸入法軟體專案，經由內附的「CIN 磁帶模式」已能夠完美實作行列輸入法的功能（包括：一、二級簡碼、特別碼、w/hg 符號選單、行列詞彙輸入等）。請自本頁面擇一下載「標準版」或「大字集版」的 cin2 鍵碼表，於 vChewing 載入行列鍵碼表後即可使用。
 
 ## 資料格式說明
+
 * .cin2：鍵碼表（磁帶）原始檔。
 
 ## 使用方法
+
 關於 vChewing 載入行列輸入法鍵碼表的方法，請參考本人的 [wiki 網頁](https://github.com/gontera/array30/wiki/vChewing%EF%BC%88%E5%94%AF%E9%9F%B3%EF%BC%8C%E8%88%8A%E7%A8%B1%E3%80%8C%E5%A8%81%E6%B3%A8%E9%9F%B3%E3%80%8D%EF%BC%89%E6%95%99%E5%AD%B8%EF%BC%9A%E8%BC%89%E5%85%A5%E8%A1%8C%E5%88%97%E8%BC%B8%E5%85%A5%E6%B3%95%E9%8D%B5%E7%A2%BC%E8%A1%A8)。
 
 ## 版本更新歷程：
+
+* 2026/09/28 版本 v2026-1.1，配合 2026 年 9 月公布之 Unicode 18.0 規格更新，於 CJK Ext-D 字集範圍新增 U+2B81E「 ⿰日欠」計 1 字；並縮短檔名，不帶版本日期。
 * 2026/08/01 版本 v2026-1.06，配合 CIN2 v2.7 規格，新導入 %anysinglecharkey 描述，以適用行列30 半形問號 '?' 定點查詢鍵的定義。
 * 2026/07/24 版本 v2026-1.05，修正 [#19](https://github.com/gontera/array30/issues/19) 的錯誤。
 * 2026/05/30 版本 v2026-1.04，配合行列30 詞庫檔 (20260528)，對於 %quickphrases 段進行調整。

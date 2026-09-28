@@ -8,7 +8,7 @@
 
 ## 行列輸入法標準版、大字集版
 
-目前行列輸入法最新的 v2026-1.02 版相容於 Unicode 17.0，支援 Unicode 中日韓統一表意文字 (CJK Unified Ideographs) 至延伸 J 區 (CJK Ext-J)，鍵碼表依據依據收錄字集範圍，區分為標準版 (regular) 及大字集版 (big) 共 2 個版本：
+目前行列輸入法最新的 v2026-1.1 版相容於 Unicode 18.0，支援 Unicode 中日韓統一表意文字 (CJK Unified Ideographs) 至延伸 J 區 (CJK Ext-J)，鍵碼表依據依據收錄字集範圍，區分為標準版 (regular) 及大字集版 (big) 共 2 個版本：
 
 * 標準版 (regular)：收錄字集範圍為中日韓統一表意文字 (CJK Unified Ideograph) 以及延伸 A 區 (CJK Ext-A) 字集、Unicode 內碼為 **4 位數** 16 進位之中日韓漢字，其位於 Plane 0（又稱為基本多文種字面，Basic Multilingual Plane）之範圍；例如「行」字，其 Unicode 內碼為 U+884C。如果您打算在**Android 或 iOS/iPadOS 行動裝置**使用行列輸入法，推薦選擇此版本。
 * 大字集版 (big)：大字集版除了蒐錄標準版的內容外，亦**完整收錄** Unicode 內碼為 **5 位數** 16 進位之 CJK Ext-B/C/D/E/F/G/H/I/J 字集，其位於 Plane 2 及 Plane 3 範圍；例如「𨑨」字，其 Unicode 內碼為 U+28468。如果您打算在**Windows、macOS、Linux 等桌面作業系統**使用行列輸入法，推薦選擇此版本。目前微軟 Windows 11 24H2 內含的細明體 7.10 版已支援至 CJK Ext-I，因為尚未包含到 Ext-J，故您可能需要變更輸入法軟體的顯示字型（如：[Jigmo 系列字型](https://kamichikoichi.github.io/jigmo/)），使候選字清單得以顯示正確的字。
@@ -21,7 +21,11 @@
 
 本站提供專搭多種輸入法軟體使用的行列輸入法鍵碼表，包括個人電腦（Windows、macOS 及 Linux）及行動裝置（Android、iOS/iPadOS），有關說明詳參[本站 wiki](https://github.com/gontera/array30/wiki)。
 
-## 版本 v2026-1.0 釋出說明 (New!)
+## 版本 v2026-1.1 釋出說明
+
+配合 2026 年 9 月公布之 Unicode 18.0，於 Unicode CJK Ext-D 區新增 U+2B81E「⿰欥」1 字，此僅為大字集 (big) 版本之變動；既有標準版 (regular) 的用戶不受影響。
+
+## 版本 v2026-1.0 釋出說明
 
 行列輸入法鍵碼表自從 2023 年 2 月釋出符合 Unicode 14.0 規格，且完整支援中日韓統一表意文字（CJK Unified Ideograph，以下簡稱 CJK）Ext-G 範圍的版本 v2023-1.0 之後，已歷時 3 年。截至目前為止，Unicode 17.0 業已釋出，蒐錄 CJK 字集範圍已擴增至 Ext-J，這是本人決定為行列輸入法再次擴增字碼的初衷。
 

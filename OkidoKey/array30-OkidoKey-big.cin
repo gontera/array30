@@ -1,15 +1,51 @@
-# 行列輸入法 30 鍵版鍵碼表（大字集版） array30 big for LIME (v2026-1.0), 2026-06-23
+%gen_inp
+# 行列輸入法 30 鍵版鍵碼表 array30 for OkidoKey/Frankie (v2026-1.1), 2026/09/28
 # 官方下載網址 https://github.com/gontera/array30
 # 有關本鍵碼表使用說明，請參閱 https://github.com/gontera/array30/wiki
 
-@format@|lime-text-v2
-@version@|ar30big-v2026-1.0
-@cname@|大行列
-@selkey@|1234567890
-@endkey@|1234567890
-@spacestyle@|2
-@imkeys@|abcdefghijklmnopqrstuvwxyz./;,
-@imkeynames@|1-\|5⇣\|3⇣\|3-\|3⇡\|4-\|5-\|6-\|8⇡\|7-\|8-\|9-\|7⇣\|6⇣\|9⇡\|0⇡\|1⇡\|4⇡\|2-\|5⇡\|7⇡\|4⇣\|2⇡\|2⇣\|6⇡\|1⇣\|9⇣\|0⇣\|0-\|8⇣
+%ename array30-big
+%cname 行列30-大字集
+%encoding UTF-8
+%selkey 1234567890
+%keyname begin
+a 1-
+b 5⇣
+c 3⇣
+d 3-
+e 3⇡
+f 4-
+g 5-
+h 6-
+i 8⇡
+j 7-
+k 8-
+l 9-
+m 7⇣
+n 6⇣
+o 9⇡
+p 0⇡
+q 1⇡
+r 4⇡
+s 2-
+t 5⇡
+u 7⇡
+v 4⇣
+w 2⇡
+x 2⇣
+y 6⇡
+z 1⇣
+. 9⇣
+/ 0⇣
+; 0-
+, 8⇣
+? ？
+* ＊
+%keyname end
+#%quickkey begin
+#
+#quickkey definitions
+#
+#%quickkey end
 
 %chardef begin
 # Begin of CJK Unified Ideographs
@@ -86292,6 +86328,7 @@ e,d;i	𫠚
 eipri	𫠛
 eiosi	𫠜
 cj;si	𫠝
+pjki	𫠞
 # End of CJK Unified Ideographs Extension D
 
 # Begin of CJK Unified Ideographs Extension E
