@@ -1,3 +1,7 @@
+# 行列30 輸入法符號表
+# 版本：v1.01
+# 釋出日期：2026/10/14
+# 釋出暨更版說明，詳參官方網址 https://github.com/gontera/array30/tree/master/array30_spec
 w0	ㄅ
 w0	ㄆ
 w0	ㄇ
@@ -949,6 +953,7 @@ hg8	⿽
 hg8	⿾
 hg8	⿿
 hg8	〾
+hg8	㇯
 hg8	〿
 hg9	㇀
 hg9	㇁
