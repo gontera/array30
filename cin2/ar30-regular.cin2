@@ -1,5 +1,5 @@
 %gen_inp
-# 行列輸入法 30 鍵版鍵碼表 array30 for vChewing (v2026-1.06), 2026/08/01
+# 行列輸入法 30 鍵版鍵碼表 array30 for vChewing (v2026-1.11), 2026/10/14
 # 官方下載網址 https://github.com/gontera/array30/cin2
 # vChewing（唯音）輸入法軟體官網 https://vchewing.github.io/README.html
 # vChewing（唯音）計畫網址 https://github.com/vChewing/vChewing-macOS/
@@ -33804,6 +33804,7 @@ hg8	⿽
 hg8	⿾
 hg8	⿿
 hg8	〾
+hg8	㇯
 hg8	〿
 hg9	㇀
 hg9	㇁

@@ -1,4 +1,4 @@
-# 行列輸入法 30 鍵版鍵碼表（標準版） array30 regular for LIME (v2026-1.0), 2026-06-23
+# 行列輸入法 30 鍵版鍵碼表（標準版） array30 regular for LIME (v2026-1.11), 2026/10/14
 # 官方下載網址 https://github.com/gontera/array30
 # 有關本鍵碼表使用說明，請參閱 https://github.com/gontera/array30/wiki
 
@@ -32836,6 +32836,7 @@ hg8	⿽
 hg8	⿾
 hg8	⿿
 hg8	〾
+hg8	㇯
 hg8	〿
 hg9	㇀
 hg9	㇁
