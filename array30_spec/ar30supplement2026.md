@@ -17,7 +17,7 @@
    - hg1：常用符號。
    - hg2：按鍵符號，包括 PC/Mac 鍵盤符號、媒體播放符號，以及電源符號。
    - hg3~hg7：目前未使用，保留供未來擴充。
-   - hg8：CJK 表意描述字元。當你想輸入的漢字於 Unicode 未定義時，可用此字元加上漢字偏旁進行描述；如「廠」字在表意描述的表示法為「⿸广敞」。
+   - hg8：CJK 表意描述字元 (Ideographic Description Character, IDC)。當你想輸入的漢字於 Unicode 未定義時，可用「IDC 字元加上偏旁/筆劃/部首」的方式，即 IDS 序列 (Ideographic Description Sequence) 來表示；如「廠」字在表意描述的表示法為「⿸广敞」。有關 IDC 字元/IDS 序列的用法，可參考我另篇 [github wiki 專文](https://github.com/gontera/array30/wiki/%E8%A1%8C%E5%88%97%E8%BC%B8%E5%85%A5%E6%B3%95-v2026-%E6%96%B0%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%B4%B9%EF%BC%9Ahg8-%E8%A1%A8%E6%84%8F%E6%96%87%E5%AD%97%E6%8F%8F%E8%BF%B0%E5%AD%97%E5%85%83)的說明。
    - hg9：CJK 筆劃。
    - hg0：CJK 部首，包括康熙部首及增補部首。
 
@@ -34,5 +34,6 @@
 
 ## 修訂歷程
 
+- 2026/10/21 微幅調整關於 IDC/IDS 的說明。
 - 2026/09/19 微幅文字調整；感謝 @tern 提供意見。
 - 2026/09/13 首次釋出。
