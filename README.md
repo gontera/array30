@@ -21,9 +21,9 @@
 
 本站提供專搭多種輸入法軟體使用的行列輸入法鍵碼表，包括個人電腦（Windows、macOS 及 Linux）及行動裝置（Android、iOS/iPadOS），有關說明詳參[本站 wiki](https://github.com/gontera/array30/wiki)。
 
-## 版本 v2026-1.1 釋出說明
+## 版本 v2026-1.1/1.11 釋出說明
 
-配合 2026 年 9 月公布之 Unicode 18.0，於 Unicode CJK Ext-D 區新增 U+2B81E「⿰日欠」1 字，此僅為大字集 (big) 版本之變動；既有標準版 (regular) 的用戶不受影響。
+配合 2026 年 9 月公布之 Unicode 18.0，於 Unicode CJK Ext-D 區新增 U+2B81E「⿰日欠」1 字，此僅為大字集 (big) 版本之變動，並增補原於 `hg8` 符號表漏編的 ㇯ (U+31EF) 字元。
 
 ## 版本 v2026-1.0 釋出說明
 
